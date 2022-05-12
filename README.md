@@ -1,2 +1,2 @@
-# timezonify
+# TimeForMe
 Timezones for everyone!
